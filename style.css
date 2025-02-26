@@ -1,0 +1,20 @@
+ul, ol {
+    font-size : 13px;
+    background-color: lightgrey;
+}
+button {
+    font-size : 10px;
+    background-color : pink;
+}
+h1 {
+    color : blue;
+    background-color: grey;
+}
+h2 {
+    color : lightblue;
+    background-color: rgb(61, 56, 56);
+}
+img {
+    width : 300px;
+    height : 300px;
+}
