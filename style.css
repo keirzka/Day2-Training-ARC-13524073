@@ -6,15 +6,34 @@ button {
     font-size : 10px;
     background-color : pink;
 }
-h1 {
+/* h1 {
     color : blue;
     background-color: grey;
 }
 h2 {
     color : lightblue;
     background-color: rgb(61, 56, 56);
+} */
+
+.judul {
+    color : blue;
+    background-color: grey;
 }
 img {
     width : 300px;
     height : 300px;
+    border: 10px solid black;
+}
+
+#nama-produk{
+    color : blue;
+    outline : 5px solid blue;
+}
+
+#harga-produk{
+    color : red;
+}
+
+#rating-produk{
+    color : green;
 }
